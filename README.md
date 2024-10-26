@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Minji</h1>
-<p></p>I'm Backend developer based in Seoul, Korea</p>
+<h1>Hi 👋, I'm Minji</h1>
+<p></p>I'm developer based in Seoul, Korea</p>
 Connect with me: m1028z@hanmail.net
 <p align="left">
 </p>
